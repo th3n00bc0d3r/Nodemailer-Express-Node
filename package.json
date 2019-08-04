@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/th3n00bc0d3r/Nodemailer-Express-Node/issues"
   },
-  "homepage": "https://github.com/th3n00bc0d3r/Nodemailer-Express-Node#readme"
+  "homepage": "https://github.com/th3n00bc0d3r/Nodemailer-Express-Node#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "nodemailer": "^6.3.0"
+  }
 }
